@@ -76,7 +76,7 @@ const Experience: React.FC = () => {
                   </span>
                   <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 text-sm rounded-full flex items-center">
                     <Smartphone className="w-3.5 h-3.5 mr-1" />
-                    React Native
+                    Ionic React
                   </span>
                   <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 text-sm rounded-full flex items-center">
                     <Database className="w-3.5 h-3.5 mr-1" />
